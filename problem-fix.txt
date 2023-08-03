@@ -1,0 +1,20 @@
+
+
+//-- User(owner) er upload howa property gula show korano list akare, user dashboard e.
+//-- Admin --> User-Property-Added Table e date-time show korano.
+//-- admin ->> New Orders Table e date-time ana.
+//-- payment issue
+//-- Admin --> Delivery-on-progress --> sent-back-to-upload-stage e comment-box ana, review input deowar jonno.
+//-- User --> sent-back-to-upload-stage e comment-box a admin j review gula dibe ugola show kroa User upload property gula te.
+//-- admin -->> dashboard ta super admin chara ar kew dekbe na.
+
+
+======================================================
+======================================================
+
+-- JSearch => fb + linkedIn + BJobs ... GlassDoor + Indeeds.
+-- LaraGigs
+-- video tutorial finish koran
+-- later learing txt finish kora.
+-- Ride Share App.
+
